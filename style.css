@@ -1,0 +1,11 @@
+body {
+    font-family: system-ui bold;
+    background: white ;
+    color: black;
+    text-align: center;
+  }
+
+.figure{
+    background-size: cover;
+}
+
